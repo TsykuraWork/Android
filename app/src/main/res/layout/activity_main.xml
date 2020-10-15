@@ -25,4 +25,10 @@
     android:layout_height="wrap_content"
     android:text="Передать параметр Activity"
 />
+    <Button
+        android:id="@+id/go_to_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Посмотреть что там в другом Activity"
+        />
 </LinearLayout>
